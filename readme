@@ -1,0 +1,2 @@
+Façam 'git clone git@github.com:salsolatragus/PUC-BD3-Trabalho-2.git <pasta>' para criar uma copia do projeto na pasta <pasta>.
+Depois vocês podem baixar modificações de github com 'git pull origin' e enviar modificações locais 'git push origin'.
